@@ -4,6 +4,12 @@ Some total nonsense I've whacked together to enable me to run
 GordonsReloadingTool on MacOS given I had Docker and XQuartz installed for
 Other Reasons.
 
+Don't ask why I didn't just install wine via brew;
+
+```
+brew install --no-quarantine gcenx/wine/wine-crossover
+```
+
 ## Dependencies
 
 On the local machine;
